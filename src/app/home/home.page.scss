@@ -1,0 +1,142 @@
+.barabajo {
+  width: 100%; /* Convertido de 375px a em */
+  height: 2.129375em; /* Convertido de 31.70px a em */
+  
+  top: 95.7%; /* Convertido de 780px a em */
+  position: absolute;
+  background: black;
+  border: 0.02625em solid; /* Convertido de 1px a em */
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+}
+
+.fondo {
+  
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: black;
+  border: 0.02625em solid; /* Convertido de 1px a em */
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+  text-align: center;
+  
+}
+.fondo2 {
+  width: 100vh; /* Convertido de 375px a em */
+  height: 46em; /* Convertido de 736px a em */
+  background: black;
+  align-items: center;
+}
+.logonetflix {
+  width: 8.625em; /* Convertido de 138px a em */
+  height: 2.325em; /* Convertido de 37.20px a em */
+  align-items: center;
+  top: 3.5625em; /* Convertido de 57px a em */
+  position: absolute;
+  
+}
+
+.perfil1 {
+  width: 6.25em; /* Convertido de 100px a em */
+  height: 7.5625em; /* Convertido de 121px a em */
+  padding-bottom: 0.5625em; /* Convertido de 9px a em */
+  
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25em; /* Convertido de 4px a em */
+  display: inline-flex;
+  margin: 3%;
+}
+
+
+.fondoperfil{
+ align-items: center;
+ 
+ width: 300px;
+ height: 400px;
+ position: absolute;
+}
+
+.perfil2 {
+  width: 6.25em; /* Convertido de 100px a em */
+  height: 7.5625em; /* Convertido de 121px a em */
+  padding-bottom: 0.8125em; /* Convertido de 13px a em */
+  left: 4.6875em; /* Convertido de 75px a em */
+  top: 22.8125em; /* Convertido de 365px a em */
+  
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  display: inline-flex;
+  margin: 3%;
+}
+
+.perfil3 {
+  width: 6.25em; /* Convertido de 100px a em */
+  height: 7.5625em; /* Convertido de 121px a em */
+  padding-bottom: 0.5em; /* Convertido de 8px a em */
+  left: 12.5em; /* Convertido de 200px a em */
+  top: 13.875em; /* Convertido de 222px a em */
+  
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.3125em; /* Convertido de 5px a em */
+  display: inline-flex;
+  margin: 3%;
+}
+
+.perfil4 {
+  width: 6.25em; /* Convertido de 100px a em */
+  height: 7.5625em; /* Convertido de 121px a em */
+  padding-bottom: 0.8125em; /* Convertido de 13px a em */
+  left: 12.5em; /* Convertido de 200px a em */
+  top: 22.8125em; /* Convertido de 365px a em */
+  
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  display: inline-flex;
+  margin: 3%;
+}
+
+.addperfil{
+  width: 600px; 
+  height: 600px; 
+  
+  padding-bottom: 0.8125em; /* Convertido de 13px a em */
+   /* Convertido de 200px a em */
+  top: 17em; /* Convertido de 365px a em */
+  position: absolute;
+  flex-direction: column;
+  gap: 0.3125;
+  left: 115px;
+  display: inline-flex;
+  margin: 3%;
+  
+}
+
+
+.lapiz{
+  width: 1.5em;
+  height: 1.5em; 
+  left: 80%;
+  top: 4em; 
+  position: absolute
+}
+
+.principal{
+  width: 100vh; 
+  height: 100%; 
+  
+  
+}
+
+
+
+
+
+
